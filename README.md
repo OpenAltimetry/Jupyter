@@ -1,4 +1,4 @@
-# Jupyter
+# OpenAltimetry Jupyter Notebook Examples
 
 Sample Jupyter notebooks for pulling data via OpenAltimetry APIs.
 
